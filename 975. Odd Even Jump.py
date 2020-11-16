@@ -11,9 +11,4 @@ def can_jump_to_end(nums):
             j = max_idx(i)
         
         is_jump_even = not is_jump_even
-
-
-
-    
-
     return can_jump
