@@ -68,7 +68,7 @@ def longest_duplicate_substring_3(string):
 
 #TLDR : 1. Use Binary Search
 #2. You should know that there are pattern finding algos that work in Linear Time. Don't try to learn them.
-#Don't try to implement KMP / Rabin Karp in interview .Even if interviewr asks to implement them, say no.
+#Don't try to implement KMP / Rabin Karp in interview .Even if interviewr asks you to, say no politely.
 
 
 

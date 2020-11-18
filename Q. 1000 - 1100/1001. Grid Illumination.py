@@ -1,3 +1,4 @@
+#Solution : Similar to N queens, make a set of x-y and x+y along with x and y
 def grid_illumination(N, lamps, queries): 
     lit_rows = set()
     lit_cols = set()
