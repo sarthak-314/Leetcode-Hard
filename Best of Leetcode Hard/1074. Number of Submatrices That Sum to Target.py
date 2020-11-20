@@ -1,4 +1,4 @@
-#BEFORE LOOKING AT HINT
+#BEFORE HINT
 
 #Solution 1 : Brute Force - Find all possible submatrics - if sum is target: counter += 1
 #Optimization - use some variation of prefix_sum to get sum of submatrix in constant time. 
@@ -16,7 +16,7 @@
 #Binary Search? 
 
 
-#AFTER LOOKING AT HINT
+#AFTER HINT
 
 #1. The prefix sum intiution was right. Do one on the row and one on the column and you can query the sum of a 
 #submatrix in constant time. That's epic. 

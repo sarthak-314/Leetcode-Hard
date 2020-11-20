@@ -1,6 +1,6 @@
 This repo contains my solutions to Leetcode Hard questions from 946 - 1500.
 It starts from 946 because I've already solved hard label questions from 1 - 945 in the past year. 
-
+Also contains Hackkerrank hard, after I ran out of Leetcode Hard
 I skip a question if : 
 1. It requires Leetcode premium membership.
 2. Like to dislike ratio is less than 2 (too many dislikes).
