@@ -13,3 +13,5 @@ I don't wanna spend half my time debugging.
 
 I get enough practice with debugging in competetive programming and project development. So i skip this part because it's boring and I hate it. Also i don't learn as much as I would when grinding math shit.
 TODO: Clean the read me, man.
+
+M for metasolving where instead of solving the problem with code, I'm solving on how to come up with the code.
