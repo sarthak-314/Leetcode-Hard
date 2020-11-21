@@ -1,5 +1,9 @@
-#### POST MORTEM
+#TODO: Understand the deque solution on leetcode
 
+#### POST MORTEM
+#The naive DP solution is easy to come up with.
+#If you ignore all the negative nums, it's basically max subarray sum with a fixed size
+#Don't really understand the deque solution. Maybe visit lateer
 
 ####
 
