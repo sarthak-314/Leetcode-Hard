@@ -18,8 +18,8 @@
 #secondary objective is to reduce the opponent's stone values. 
 #Approach 1 : Each player plays greedily, taking 3 stones every time
 #Approach 2 : Each player plays optimially. 
-def stone_game(stone_values): 
 
+def stone_game(stone_values): 
     #TODO: Edge Cases / One offs
     def dp(i): 
         #Base Case - less than 3 stones remaining
